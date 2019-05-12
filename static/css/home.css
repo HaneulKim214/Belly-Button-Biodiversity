@@ -1,0 +1,16 @@
+.home-inner {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)), url("1.jpg");
+}
+
+.banner {
+    color: aliceblue;
+    padding-bottom: 75px;
+}
+
+/* .bubble {
+    width:1200px;
+    height: 500px;
+} */
+.second-row{
+    padding-top: 50px;
+} 
