@@ -22,7 +22,7 @@ part II:
 **Programs and Libraries used:**
 - Main coding: Python, Flask, SQLalchemy, 
 - Visualization: javascript(d3, plotly(svg)), css3, html5, bootstrap4
-- PostgreSQL
+- Database: PostgreSQL
 
 Link to app: https://haneulkim-belly-button.herokuapp.com/
 
