@@ -1,5 +1,5 @@
 # Belly-Button-Biodiversity
-
+![gif](Belly-Button-Biodiversity/static/bellybutton.gif)
 ## Project Status: Finished
 
 
